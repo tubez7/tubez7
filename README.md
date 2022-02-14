@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tubez7
-- 👀 I’m interested in music, football (the proper version), and all sorts of various things!
+- 👀 I’m interested in music, football (the proper version), videogames, and all sorts of various things! I play guitar and gig regularly around the Birmingham area and beyond!
 - 🌱 I’m currently learning how to code in JavaScript with Northcoders.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: thescopeboys@hotmail.com.
